@@ -68,7 +68,8 @@ else:
  
 
 # Output : 
-![image](https://github.com/Aishwarya-sankar/Poisson_distribution/assets/121418444/961a5bca-8ae9-4988-929c-c03939e319d2)
+![image](https://github.com/Aishwarya-sankar/Poisson_distribution/assets/121418444/97f0f414-9f0f-4ac4-8320-89deecd09bf8)
+
 
 
 
